@@ -1,0 +1,19 @@
+{
+  "name": "brackets-css-concat",
+  "title": "Brackets CSS Concat",
+  "version": "0.0.1",
+  "description": "Concatenates a list of CSS files into one big file",
+  "homepage": "https://github.com/wykapedia/brackets-css-concat",
+  "author": "Brian Wyka <brian.wyka@gmail.com> (https://github.com/wykapedia)",
+  "license": "MIT",
+  "categories": "general",
+  "keywords": [
+    "css",
+	"concatenate",
+	"concatenation",
+  	"build"
+  ],
+  "engines": {
+    "brackets": ">=0.32.0"
+  }
+}
